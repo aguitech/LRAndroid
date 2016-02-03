@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BePartOf</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_home">Inicio</string>
+    <string name="action_blog">Blog</string>
+    <string name="action_eventos">Eventos</string>
+    <string name="action_trivias">Trivias</string>
+    <string name="action_terminos_condiciones">Terminos y Condiciones</string>
+    <string name="action_aviso_privacidad">Aviso de Privacidad</string>
+    <string name="title_activity_pantalla">PantallaActivity</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_registro_exitoso">RegistroExitoso</string>
+    <string name="title_activity_blog">Blog</string>
+    <string name="title_activity_eventos">Eventos</string>
+    <string name="title_activity_trivias">Trivias</string>
+    <string name="title_activity_terminos_condiciones">Términos</string>
+    <string name="title_activity_aviso_privacidad">Aviso</string>
+    <string name="title_activity_menu_principal">Menú</string>
+</resources>
